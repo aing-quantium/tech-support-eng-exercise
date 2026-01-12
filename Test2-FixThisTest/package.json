@@ -1,0 +1,20 @@
+{
+  "name": "bst-test-exercise",
+  "version": "1.0.0",
+  "description": "Candidate exercise: fix the failing BST test.",
+  "main": "src/myFunction.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "exercise",
+    "mocha",
+    "binary-search-tree",
+    "interview"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
